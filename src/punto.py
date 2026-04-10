@@ -19,4 +19,5 @@ class Punto:
         return Punto(self.x*factor , self.y*factor)
     
     
-    
+    def __str__(self):
+        return f"{self._punto_a} ---- {self._punto_b}"
