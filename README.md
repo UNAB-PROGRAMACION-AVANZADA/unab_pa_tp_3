@@ -5,15 +5,12 @@ Integrantes
 Jorge Ordoñez
 
 # Estructura
-unab_pa_tp_3/
-├── src/
-│   ├── punto.py
-│   ├── linea.py
-│   ├── cancion.py
-│   ├── Libro.py
-│   └── Persona.py
-├── main.py
-└── README.md
+--  src/punto.py
+--  src/linea.py
+--  src/cancion.py
+--  src/Libro.py
+--  src/Persona.py
+--  main.py
 # Ejercicios
 
 ##  Punto
